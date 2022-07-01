@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "product_title": "Fancy Product",
+        "type": "product_list",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "",
+        "new_price": "$40.00 - $80.00",
+        "rating": ""
+    },
+
+    {
+        "id": 2,
+        "product_title": "Special Item",
+        "type": "item",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "$20.00",
+        "new_price": "$18.00",
+        "rating": "5"
+    },
+
+    {
+        "id": 3,
+        "product_title": "Sale Item",
+        "type": "item",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "$50.00",
+        "new_price": "$25.00",
+        "rating": "3"
+    },
+
+    {
+        "id": 4,
+        "product_title": "Popular Item",
+        "type": "item",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "",
+        "new_price": "$40.00",
+        "rating": "5"
+    },
+
+    {
+        "id": 5,
+        "product_title": "Sale Item",
+        "type": "item",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "$50.00",
+        "new_price": "$25.00",
+        "rating": "4"
+    },
+
+    {
+        "id": 6,
+        "product_title": "Fancy Product",
+        "type": "product_list",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "",
+        "new_price": "$120.00 - $280.00",
+        "rating": ""
+    },
+
+    {
+        "id": 7,
+        "product_title": "Special Item",
+        "type": "item",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "$20.00",
+        "new_price": "$18.00",
+        "rating": "5"
+    },
+
+    {
+        "id": 8,
+        "product_title": "Popular Item",
+        "type": "item",
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "old_price": "",
+        "new_price": "$40.00",
+        "rating": "5"
+    }
+]
